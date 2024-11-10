@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/three.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/marcos/projects/arvore/src/three.c
+three.h
+/home/marcos/projects/arvore/src/three.h
+

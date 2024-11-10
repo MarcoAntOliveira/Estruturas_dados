@@ -1,0 +1,3 @@
+/home/marcos/projects/arvore/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/projects/arvore/build/CMakeFiles/edit_cache.dir
+/home/marcos/projects/arvore/build/CMakeFiles/project.dir

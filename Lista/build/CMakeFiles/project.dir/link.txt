@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/project.dir/src/main.c.o CMakeFiles/project.dir/src/Lista.c.o  -o project  -lm 

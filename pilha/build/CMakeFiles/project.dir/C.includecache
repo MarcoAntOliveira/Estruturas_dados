@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/pilha.h
+
+/home/marcos/projects/Estrutura_de_dados/pilha/src/main.c
+pilha.h
+/home/marcos/projects/Estrutura_de_dados/pilha/src/pilha.h
+stdio.h
+-
+
+/home/marcos/projects/Estrutura_de_dados/pilha/src/pilha.c
+pilha.h
+/home/marcos/projects/Estrutura_de_dados/pilha/src/pilha.h
+stdlib.h
+-
+

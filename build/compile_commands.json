@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/marcos/projects/Estrutura_de_dados/build",
+  "command": "/usr/bin/gcc-8  -I/home/marcos/projects/Estrutura_de_dados/pilha/include  -g   -std=gnu99 -o CMakeFiles/project.dir/src/main.c.o   -c /home/marcos/projects/Estrutura_de_dados/pilha/src/main.c",
+  "file": "/home/marcos/projects/Estrutura_de_dados/pilha/src/main.c"
+},
+{
+  "directory": "/home/marcos/projects/Estrutura_de_dados/build",
+  "command": "/usr/bin/gcc-8  -I/home/marcos/projects/Estrutura_de_dados/pilha/include  -g   -std=gnu99 -o CMakeFiles/project.dir/src/pilha.c.o   -c /home/marcos/projects/Estrutura_de_dados/pilha/src/pilha.c",
+  "file": "/home/marcos/projects/Estrutura_de_dados/pilha/src/pilha.c"
+}
+]

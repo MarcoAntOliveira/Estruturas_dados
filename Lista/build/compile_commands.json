@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/marcos/projects/Estrutura_de_dados/Lista/build",
+  "command": "/usr/bin/cc  -I/home/marcos/projects/Estrutura_de_dados/Lista/include  -g   -std=gnu99 -o CMakeFiles/project.dir/src/main.c.o   -c /home/marcos/projects/Estrutura_de_dados/Lista/src/main.c",
+  "file": "/home/marcos/projects/Estrutura_de_dados/Lista/src/main.c"
+},
+{
+  "directory": "/home/marcos/projects/Estrutura_de_dados/Lista/build",
+  "command": "/usr/bin/cc  -I/home/marcos/projects/Estrutura_de_dados/Lista/include  -g   -std=gnu99 -o CMakeFiles/project.dir/src/Lista.c.o   -c /home/marcos/projects/Estrutura_de_dados/Lista/src/Lista.c",
+  "file": "/home/marcos/projects/Estrutura_de_dados/Lista/src/Lista.c"
+}
+]

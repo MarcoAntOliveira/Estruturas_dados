@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Lista.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
+/home/marcos/projects/Estrutura_de_dados/Lista/src/Lista.c
+Lista.h
+/home/marcos/projects/Estrutura_de_dados/Lista/src/Lista.h
+
+/home/marcos/projects/Estrutura_de_dados/Lista/src/main.c
+Lista.h
+/home/marcos/projects/Estrutura_de_dados/Lista/src/Lista.h
+

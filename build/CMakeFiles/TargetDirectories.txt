@@ -1,0 +1,3 @@
+/home/marcos/projects/Estrutura_de_dados/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/projects/Estrutura_de_dados/build/CMakeFiles/edit_cache.dir
+/home/marcos/projects/Estrutura_de_dados/build/CMakeFiles/project.dir

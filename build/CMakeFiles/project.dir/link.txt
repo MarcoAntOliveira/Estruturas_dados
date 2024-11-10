@@ -1,0 +1,1 @@
+/usr/bin/gcc-8 -g   CMakeFiles/project.dir/src/main.c.o CMakeFiles/project.dir/src/pilha.c.o  -o project  -lm 
