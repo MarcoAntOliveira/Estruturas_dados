@@ -2,7 +2,7 @@
 
 NoArv* inserir(NoArv *raiz, int num){
     if(raiz==NULL){
-        NoArv *aux =malloc(sizeof(NoArv));
+        NoArv *aux = malloc(sizeof(NoArv));
         aux -> valor= num;
         aux -> direita = NULL;
         aux -> esquerda = NULL;
